@@ -1,0 +1,2 @@
+debian-packaging/0001-avoid-beta-warning.patch
+debian-packaging/0003-avoid-regenerating-defsincdate-use-shipped-file.patch
