@@ -1,3 +1,9 @@
+gnupg2 (2.2.9-1) unstable; urgency=medium
+
+  * new upstream relase.
+
+ -- Gunter Grodotzki <gg@9jkh.co.za>  Sun, 15 Jul 2018 20:13:57 +0200
+
 gnupg2 (2.2.7-1) unstable; urgency=medium
 
   * new upstream relase.
